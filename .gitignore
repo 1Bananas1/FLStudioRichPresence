@@ -1,0 +1,68 @@
+# Build directories
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+Win32/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.vcxproj.user
+*.sln.docstates
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Discord SDK (don't commit)
+discord_social_sdk/
+
+# Configuration files with sensitive data
+config.txt
+config.json
+*.ini
+
+# Logs
+*.log
+logs/
+
+# Platform-specific
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.exe
+*.dll
+*.pdb
+
+# macOS
+.DS_Store
+*.dylib
+*.app
+
+# Linux
+*.so
+*.a
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# IDE files
+*.pro.user
+*.qbs.user
+*.pri
+
+# Backup files
+*.bak
+*.backup
