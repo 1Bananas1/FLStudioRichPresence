@@ -6,7 +6,7 @@
 
 struct AppConfig {
     // Discord settings
-    std::string applicationId = "APP HERE";
+    std::string applicationId = "1395851731312836760";
     bool enableRichPresence = true;
     
     // Privacy settings

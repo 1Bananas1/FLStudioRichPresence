@@ -7,7 +7,7 @@
 #include <thread>
 #include <chrono>
 
-// Include Discord SDK header with relative path
+// Include CORRECT Discord Partner SDK header
 #include "../discord_social_sdk/include/discordpp.h"
 
 #include "../include/fl_studio_types.h"
